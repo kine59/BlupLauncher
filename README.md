@@ -1,2 +1,2 @@
 # Blup-Launcher
-A simple app made to open Blupi games.
+**Blup-Launcher** is simple app made to open Blupi games.
