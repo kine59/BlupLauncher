@@ -1,0 +1,10 @@
+B:\Blupi Opener\obj\Debug\Blupi Opener.csproj.AssemblyReference.cache
+B:\Blupi Opener\obj\Debug\Blupi_Opener.Form1.resources
+B:\Blupi Opener\obj\Debug\Blupi_Opener.Properties.Resources.resources
+B:\Blupi Opener\obj\Debug\Blupi Opener.csproj.GenerateResource.cache
+B:\Blupi Opener\obj\Debug\Blupi Opener.csproj.CoreCompileInputs.cache
+B:\Blupi Opener\bin\Debug\BlupLauncher.exe.config
+B:\Blupi Opener\bin\Debug\BlupLauncher.exe
+B:\Blupi Opener\bin\Debug\BlupLauncher.pdb
+B:\Blupi Opener\obj\Debug\BlupLauncher.exe
+B:\Blupi Opener\obj\Debug\BlupLauncher.pdb
