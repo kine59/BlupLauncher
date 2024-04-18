@@ -5,7 +5,7 @@ You can download this app on [Sourceforge](https://sourceforge.net/projects/blup
 ### Apps used to make this
 - Visual Studio
 - Advanced Installer
-- Paint3D
+- Paint 3D
 - Paint.NET
 #### Websites used
 - favicon.io
